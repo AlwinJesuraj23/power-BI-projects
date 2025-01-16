@@ -32,7 +32,7 @@ This project involves analyzing Uber ride data to uncover key insights and trend
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Screenshot%202025-01-16%20113041.png
 
 ## Project Insight
 - High-Demand Locations: Penn Station and Upper East Side are the top locations with the most trips.
