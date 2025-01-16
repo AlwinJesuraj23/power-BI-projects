@@ -1,39 +1,52 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Uber-Data-Analysis (Interactive Dashboard creation using Microsoft Power BI)
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+This project involves analyzing Uber ride data to uncover key insights and trends. The dashboard visualizes metrics such as total trips, total fare, total duration, total distance, and night shift percentages, providing a comprehensive view of ride activity and performance.
 
 ## Dataset used
 - <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+- Total Trips: Number of trips completed.
+- Total Fare: Total revenue generated from trips.
+- Total Duration: Cumulative trip time in hours.
+- Total Distance: Total distance covered by all trips.
+- Night Shift Percentage: Proportion of trips conducted during night shifts.
+- Trips by Location: Distribution of trips across different locations.
+- Payment Method Distribution: Percentage of trips paid using cash, Uber Pay, Google Pay, or Amazon Pay.
+- Trips by Shift: Comparison between day and night shift trips.
+- Trips by Pickup Time: Hourly distribution of trips.
+- Trips by Day: Weekly ride patterns.
+
 
 - Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Data Collection: Extract data from Uber's ride database or provided dataset.
+- Data Cleaning: Remove inconsistencies and ensure accuracy in metrics such as fare, time, and distance.
+- Dashboard Design: Utilize Power BI to design and organize visual elements like bar charts, pie charts, and line graphs.
+- Filtering Options: Implement slicers to filter data by day, time, and location for focused analysis.
+- KPI Calculation: Compute metrics such as total trips, fare, distance, and duration.
+- Insight Generation: Interpret visual trends to derive actionable insights.
+- Validation: Ensure the dashboard accurately reflects the dataset.
 
 ## Dashboard
 
 ![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- High-Demand Locations: Penn Station and Upper East Side are the top locations with the most trips.
+- Peak Time: Most trips occur during late afternoon and early evening (peak hours).
+- Payment Trends: Uber Pay dominates as the primary payment method.
+- Day vs. Night: A majority of trips are conducted during the day (91.3%), with limited night shift activity (8.7%).
+- Weekly Pattern: Weekdays (especially Monday to Friday) witness higher trip volumes compared to weekends.
+
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+The Uber Analytics dashboard highlights key operational metrics and trends essential for strategic decision-making. By understanding peak demand times, high-traffic locations, and preferred payment methods, Uber can:
+
+- Optimize Resource Allocation: Deploy more drivers during peak hours and high-demand areas.
+- Improve Customer Experience: Focus on efficient rides during peak hours and ensure better night shift coverage.
+- Maximize Revenue: Target promotions in high-demand areas and incentivize preferred payment methods.
+- This project demonstrates how business intelligence tools like Power BI can transform raw data into meaningful insights, empowering 
+  businesses to make informed decisions.
+
