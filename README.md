@@ -3,7 +3,8 @@
 This project involves analyzing Uber ride data to uncover key insights and trends. The dashboard visualizes metrics such as total trips, total fare, total duration, total distance, and night shift percentages, providing a comprehensive view of ride activity and performance.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
+- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
 
 ## Questions (KPIs)
 - Total Trips: Number of trips completed.
