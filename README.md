@@ -19,7 +19,8 @@ This project involves analyzing Uber ride data to uncover key insights and trend
 - Trips by Day: Weekly ride patterns.
 
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+ ## Dashboard Interaction
+ <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/uber.pbix">View Dashboard</a>
 
 ## Process
 - Data Collection: Extract data from Uber's ride database or provided dataset.
