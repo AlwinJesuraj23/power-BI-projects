@@ -32,8 +32,7 @@ This project involves analyzing Uber ride data to uncover key insights and trend
 
 ## Dashboard
 
-Screenshot 2025-01-16 113041.png
-
+![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 ## Project Insight
 - High-Demand Locations: Penn Station and Upper East Side are the top locations with the most trips.
 - Peak Time: Most trips occur during late afternoon and early evening (peak hours).
