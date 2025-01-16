@@ -4,7 +4,7 @@ This project involves analyzing Uber ride data to uncover key insights and trend
 
 ## Dataset used
 - <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
-- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
+- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Trip%20Details.xlsx">Dataset 2</a>
 
 ## Questions (KPIs)
 - Total Trips: Number of trips completed.
